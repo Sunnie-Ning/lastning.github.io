@@ -14,5 +14,5 @@ title: "The multi-panel heatmap"
 </div>
 
 <div class="heatmap-image">
-<img src="docs/1.PNG" alt="Heatmap of prostitution population from 2003 to 2013">
+<img src="1.PNG" alt="Heatmap of prostitution population from 2003 to 2013">
 </div>
